@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="Any CPU" />
+    <Platform Name="x64" />
+  </Configurations>
+  <Project Path="vape_shop/vape_shop.csproj" Id="3722b75b-5ea7-482f-8caa-974befd98ede">
+    <Platform Solution="*|x64" Project="x64" />
+  </Project>
+</Solution>
