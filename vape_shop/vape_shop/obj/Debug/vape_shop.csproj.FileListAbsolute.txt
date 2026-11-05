@@ -1,0 +1,11 @@
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\bin\Debug\vape_shop.exe.config
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\bin\Debug\vape_shop.exe
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\bin\Debug\vape_shop.pdb
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\obj\Debug\vape_shop.csproj.AssemblyReference.cache
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\obj\Debug\vape_shop.Form1.resources
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\obj\Debug\vape_shop.Properties.Resources.resources
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\obj\Debug\vape_shop.csproj.GenerateResource.cache
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\obj\Debug\vape_shop.csproj.CoreCompileInputs.cache
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\obj\Debug\vape_shop.exe
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\obj\Debug\vape_shop.pdb
+C:\Users\mcere\Desktop\краснаперов\vape_shop\vape_shop\bin\Debug\dt.accdb
